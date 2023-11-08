@@ -1,2 +1,5 @@
-# DVT_Lab
-Data Visualization Lab. Topics covered over Tableau and PowerBI
+Programs Under Data&Prog.
+
+Contains notes for:
+- [[Tableau]]
+- [[PowerBI]]
