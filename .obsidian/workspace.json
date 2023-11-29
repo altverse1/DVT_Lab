@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tableau/Prog 18.md",
+                "file": "Tableau/Prog 15.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "7050229ba6bda3b0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Tableau/lab manual.docx.pdf"
               }
             }
           }
@@ -69,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 285.5
   },
   "right": {
     "id": "153ad8249c01ab23",
@@ -85,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tableau/Prog 18.md",
+                "file": "Tableau/Prog 15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tableau/Prog 18.md",
+                "file": "Tableau/Prog 15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tableau/Prog 18.md"
+                "file": "Tableau/Prog 15.md"
               }
             }
           }
@@ -148,16 +158,27 @@
   },
   "active": "8aaa5c2aa4f3247c",
   "lastOpenFiles": [
-    "Tableau/Prog 17.md",
-    "Tableau/Prog 16.md",
-    "Tableau/Prog 15.md",
     "Tableau/Prog 14.md",
     "Tableau/Prog 13.md",
+    "Tableau/lab manual.docx.pdf",
     "Tableau/Prog 12.md",
+    "Tableau/Prog 11.md",
+    "Tableau/Prog 10.md",
     "Tableau/Prog 9.md",
     "Tableau/Prog 8.md",
+    "_attach/Tableau/8_FILTERS.png",
+    "_attach/Tableau/Untitled",
     "Tableau/Prog 6.md",
+    "Tableau/Prog 7.md",
     "Tableau/Prog 5.md",
-    "Tableau/Prog 1.md"
+    "Tableau/Prog 4.md",
+    "Tableau/Prog 3.md",
+    "Tableau/Prog 1.md",
+    "Tableau/Prog 20.md",
+    "Tableau/Data&Prog/~Book1__7760.twbr",
+    "Tableau/Prog 18.md",
+    "Tableau/Prog 17.md",
+    "Tableau/Prog 16.md",
+    "Tableau/Prog 15.md"
   ]
 }
