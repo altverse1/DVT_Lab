@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "905c63d6dc548589",
+    "type": "split",
+    "children": [
+      {
+        "id": "6d4edddcf00daef5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8aaa5c2aa4f3247c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tableau/Prog 18.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2df104349fef885a",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ac03ecdf4a0b7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f6fd4d31f23166c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9d54dc1983fa9c18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4309b872d00795e5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "153ad8249c01ab23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8547b717ab985734",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15e26e9bd1082b99",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tableau/Prog 18.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18519624f63d76f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tableau/Prog 18.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "29c89f813e63eb42",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "86fb626dfbd56217",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tableau/Prog 18.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8aaa5c2aa4f3247c",
+  "lastOpenFiles": [
+    "Tableau/Prog 17.md",
+    "Tableau/Prog 16.md",
+    "Tableau/Prog 15.md",
+    "Tableau/Prog 14.md",
+    "Tableau/Prog 13.md",
+    "Tableau/Prog 12.md",
+    "Tableau/Prog 9.md",
+    "Tableau/Prog 8.md",
+    "Tableau/Prog 6.md",
+    "Tableau/Prog 5.md",
+    "Tableau/Prog 1.md"
+  ]
+}
